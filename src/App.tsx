@@ -410,11 +410,11 @@ const App = () => {
         rollNo: '044',
         image: img44,
         portfolioLink: 'https://hemantsingh-hs.github.io/portfolio/',
-        email: 'hemant@example.com',
-        github: 'https://github.com/hemant',
-        linkedin: 'https://linkedin.com/in/hemant',
-        instagram: 'https://instagram.com/hemant',
-        leetcode: 'https://leetcode.com/hemant'
+        email: 'singhemant363@gmail.com',
+        github: 'https://github.com/Hemantsingh-hs/',
+        linkedin: 'https://www.linkedin.com/in/hemant-singh-12682b233',
+        instagram: 'https://www.instagram.com/hemant_singh1.33/',
+        leetcode: '#'
       },
       {
         id: 46,
